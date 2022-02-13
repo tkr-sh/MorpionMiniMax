@@ -1,3 +1,8 @@
+////////////////////////////////////
+//                                //
+//        MiniMax Morpion         //
+//  Code Written by Axel DEREPAS  //
+/////////////////////////////////////
 #include <iostream>
 #include <string>
 #include <cmath>
